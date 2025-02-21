@@ -14,7 +14,7 @@ Compilation (bundling/minifying) time is a few seconds, almost all of which is s
 
 ## Usage
 
-This application may be used in the same was as [`megalodon`](https://github.com/h3poteto/megalodon).
+This application may be used in the same way as [`megalodon`](https://github.com/h3poteto/megalodon).
 
 Initialize the client with the following code:
 
